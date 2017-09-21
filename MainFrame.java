@@ -231,7 +231,7 @@ class MainFrame{
 		String filename=args[0];
 		String str;
 		String str1;
-		String vcblr="../resources/russian vcblr.txt";
+		String vcblr="russian vcblr.txt";
 		
 		// получаем строку str с текстом
 		str=ActionKinds.ReadAttempt(filename);
